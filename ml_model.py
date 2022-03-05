@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("ml code3")
+
+print("model 2 is best")
